@@ -1,4 +1,4 @@
-RINGKASAN
+# RINGKASAN
 Pengenalan dan Persiapan Awal. Pada awalnya, eksperimen dilakukan dengan memilih media penyimpanan eksternal berupa flash disk sebagai sumber data yang akan diselidiki. Langkah pertama adalah menciptakan struktur folder yang terorganisir dengan baik untuk menyimpan semua hasil investigasi. Dalam hal ini, saya memulainya dengan membuat folder "CASES" sebagai induk di mana semua kasus akan disimpan. Kemudian, saya membuat sub-folder dengan nomor kasus 001 di dalamnya. Untuk memudahkan pengelolaan kasus, saya juga menambahkan indikator jenis investigasi dengan memberi tag tambahan. Tag tersebut terdiri dari kode "H" untuk jenis investigasi tertentu, diikuti dengan tag penyelidik "Dharma", dan inisial anggota tim penyelidik "D".
 
 Struktur Folder Kasus. Setelah struktur folder induk dan sub-folder kasus dibuat, langkah selanjutnya adalah menetapkan sub-folder di bawah folder kasus 001. Ini termasuk folder "Docs" untuk dokumen, "Image" untuk gambar, "temp" untuk sementara, "Autopsy" untuk data dan hasil analisis Autopsy, dan "Reports" untuk laporan-laporan yang dihasilkan.
@@ -16,8 +16,8 @@ Pencarian dan Tandai Data Relevan. Dalam tahap analisis, saya menggunakan fitur 
 Pembuatan Laporan dan Kesimpulan. Setelah semua proses analisis selesai, saya membuat laporan yang mencakup hasil analisis dan aktivitas yang dilakukan dalam Autopsy. Laporan tersebut mencakup detail tentang semua tindakan yang dilakukan dalam pemeriksaan forensik, termasuk hasil pencarian, tag file, dan temuan penting lainnya. Kesimpulan dari eksperimen ini adalah bahwa Autopsy menyediakan alat yang efektif dan komprehensif untuk melakukan analisis forensik digital dengan cara yang terstruktur dan terdokumentasi dengan baik.
 
 
-STEP BY STEP
-PART 1
+# STEP BY STEP
+## PART 1
 1. Buka Autopsy, pilih New Case
    ![image](https://github.com/marieroseoo/Autopsy-Exercise---1203210117/assets/150213177/8dadb081-11a2-4993-9b0e-7d506efd0626)
 2. Isi Case Information
@@ -38,3 +38,11 @@ PART 1
 9. Kalian bisa explore ke Menu lainnya seperti File Views
 10. Yang terakhir adalah Laporan (Report), tekan Generate Report kemudian tentukan format Report, kemudian tentukan apa yang ingin dijadikan Report, bisa semua hasil atau yang spesifik
     ![image](https://github.com/marieroseoo/Autopsy-Exercise---1203210117/assets/150213177/04f04da2-33cc-426f-a955-4ddd7a8ea30a)
+
+## PART 2
+Untuk part 2 tidak bisa saya lakukan karena mungkin spek laptop terlalu rendah dan file terlalu besar, yang jadinya hanya melakukan loading di analisa file dan tidak dapat menampilkan Data Artifact dan Analyst Result.
+![image](https://github.com/marieroseoo/Autopsy-Exercise---1203210117/assets/150213177/25a7718c-a5da-4bae-9670-d035d616540f)
+
+## Reference
+Part 1 https://www.youtube.com/watch?v=fEqx0MeCCHg
+Part 2 https://www.youtube.com/watch?v=5SHB4HwkX28
